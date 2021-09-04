@@ -3,8 +3,9 @@
  <div>
   <a href="https://github.com/RaquelAlbuquerque1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelAlbuquerque1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="Raquel-gif" src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelAlbuquerque1&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Raquel-gif" src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif">
+ 
    
 </div>
   
