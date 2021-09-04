@@ -4,9 +4,12 @@
   <a href="https://github.com/RaquelAlbuquerque1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelAlbuquerque1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelAlbuquerque1&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" alt="Raquel-gif" src="https://c.tenor.com/8B7z14WiY00AAAAi/panda-hi.gif">
+   
 </div>
   
   <div style="display: inline_block"><br>
+   
   <img align="center" alt="Raquel-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Raquel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Raquel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -16,7 +19,6 @@
     <img align="center" alt="Raquel-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Raquel-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Raquel-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="right" alt="Raquel-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
