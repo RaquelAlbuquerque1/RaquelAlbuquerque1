@@ -1,4 +1,4 @@
-### Oiii! 👋 Eu sou Raquel Albuquerque!
+### Hi! 👋 I'm Raquel Albuquerque!
 
  <div>
   <a href="https://github.com/RaquelAlbuquerque1">
